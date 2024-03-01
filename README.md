@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 <h3 align="right">🚀 Backend Developer</h3>
 
 ***
-### Introduction 🙋🏻‍♀️
+### 🙋🏻‍♀️ Introduction
 - [Tistory 🔗](https://kimparkpark.tistory.com/)
 - [Notion 🔗]()
-### Track 🐾
+### 🐾 Track
 - 2019.02. ~ 2023.08. :: Hallym University 👩🏻‍🎓
   - 심리학과 전공
   - 소프트웨어융합스쿨 복수전공
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 2024.02.29 ~ ing :: Study 🔥
   - [코딩테스트 스터디 🔗](https://github.com/nawonhee/Study_CodingTest.git)
   - [알고리즘 스터디 🔗](https://github.com/qbobl5/Study_Algorithm.git)
-### Skill 💡
+### 💡 Skill
 - Languages ✏️
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
