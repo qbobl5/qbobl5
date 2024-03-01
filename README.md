@@ -1,4 +1,4 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=150&text=Kim%20Hye%20Bin&fontSize=50&color=0:FFD9EC,100:FFB2D9&stroke=100)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=150&text=Kim%20Hye%20Bin&fontSize=50&color=0:FFD9EC,100:FFB2D9&stroke=ffffff&fontColor=F361A6)
 <h3 align="right">Backend Developer 🚀</h3>
 
 ***
@@ -9,10 +9,10 @@
 - 2019.02. ~ 2023.08. :: Hallym University 👩🏻‍🎓
   - 심리학과 전공
   - 소프트웨어융합스쿨 복수전공
-- 2023.06. ~ 2023.12. :: KOSA 🌖
-  - 한국소프트웨어산업협회 MSA 풀스택 과정 교육 수료
 - 2023.09. ~ 2023.10. :: Sungdongorang 🏡
   - 청년기획자클럽 프로젝트형 커뮤니티 사이드나우 수료
+- 2023.06. ~ 2023.12. :: KOSA 🌖
+  - 한국소프트웨어산업협회 MSA 풀스택 과정 교육 수료
 - 2024.02.29 ~ ing :: Study 🔥
   - [코딩테스트 스터디 URL](https://github.com/nawonhee/Study_CodingTest.git)
   - [알고리즘 스터디 URL](https://github.com/qbobl5/Study_Algorithm.git)
