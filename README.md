@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Kim%20Hye%20Bin&fontSize=65&color=0:55f8f1,100:ff015c&stroke=100)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=150&text=Kim%20Hye%20Bin&fontSize=50&color=0:55f8f1,100:ff015c&stroke=100)
 <h3 align="right">🚀 Backend Developer</h3>
 
 ***
