@@ -3,8 +3,10 @@
 
 ***
 ### 🙋🏻‍♀️ Introduction
-- [Tistory URL](https://kimparkpark.tistory.com/)
-- [Notion URL]()
+🔗 [Tistory URL](https://kimparkpark.tistory.com/)
+  
+🔗 [Notion URL]()
+
 ### 🐾 Track
 - 2019.02. ~ 2023.08. :: Hallym University 👩🏻‍🎓
   - 심리학과 전공
@@ -14,9 +16,9 @@
 - 2023.06. ~ 2023.12. :: KOSA 🌖
   - 한국소프트웨어산업협회 MSA 풀스택 과정 교육 수료
 - 2024.02.29 ~ ing :: Study 🔥
-  - [코딩테스트 스터디 URL](https://github.com/nawonhee/Study_CodingTest.git)
-  - [알고리즘 스터디 URL](https://github.com/qbobl5/Study_Algorithm.git)
-### 💡 Skill
+  - 🔗 [코딩테스트 스터디 URL](https://github.com/nawonhee/Study_CodingTest.git)
+  - 🔗 [알고리즘 스터디 URL](https://github.com/qbobl5/Study_Algorithm.git)
+### 📌 Skill
 - Languages ✏️
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
