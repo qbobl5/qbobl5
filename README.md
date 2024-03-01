@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   - 소프트웨어융합스쿨 복수전공
 - 2023.06. ~ 2023.12. :: KOSA 👩🏻‍💻
   - 한국소프트웨어산업협회 MSA 풀스택 과정 교육
-### My Stack 💡
+### My Skill 💡
 - Languages ✏️
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
