@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 2019.02. ~ 2023.08. :: Hallym University 👩🏻‍🎓
   - 심리학과 전공
   - 소프트웨어융합스쿨 복수전공
-- 2023.06. ~ 2023.12. :: KOSA
-  - 한국소프트웨어산업협회 MSA 풀스택 과정 교육 🔥
+- 2023.06. ~ 2023.12. :: KOSA 👩🏻‍💻
+  - 한국소프트웨어산업협회 MSA 풀스택 과정 교육
 ### My Stack 💡
 - Languages ✏️
 
