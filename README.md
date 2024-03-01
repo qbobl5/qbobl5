@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="right">🚀 Backend Developer</h3>
 
 ***
-### Profile 🙋🏻‍♀️
+### Introduction 🙋🏻‍♀️
 - [Tistory 🔗](https://kimparkpark.tistory.com/)
 - [Notion 🔗]()
 ### Track 🐾
