@@ -3,8 +3,8 @@
 
 ***
 ### 🙋🏻‍♀️ Introduction
-- [Tistory 🔗](https://kimparkpark.tistory.com/)
-- [Notion 🔗]()
+- [Tistory URL](https://kimparkpark.tistory.com/)
+- [Notion URL]()
 ### 🐾 Track
 - 2019.02. ~ 2023.08. :: Hallym University 👩🏻‍🎓
   - 심리학과 전공
@@ -14,8 +14,8 @@
 - 2023.09. ~ 2023.10. :: Sungdongorang 🏡
   - 청년기획자클럽 프로젝트형 커뮤니티 사이드나우 수료
 - 2024.02.29 ~ ing :: Study 🔥
-  - [코딩테스트 스터디 🔗](https://github.com/nawonhee/Study_CodingTest.git)
-  - [알고리즘 스터디 🔗](https://github.com/qbobl5/Study_Algorithm.git)
+  - [코딩테스트 스터디 URL](https://github.com/nawonhee/Study_CodingTest.git)
+  - [알고리즘 스터디 URL](https://github.com/qbobl5/Study_Algorithm.git)
 ### 💡 Skill
 - Languages ✏️
 
