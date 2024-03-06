@@ -18,7 +18,35 @@
   - 🔗 [코딩테스트 스터디 URL](https://github.com/nawonhee/Study_CodingTest.git)
   - 🔗 [알고리즘 스터디 URL](https://github.com/qbobl5/Study_Algorithm.git)
   - 🔗 [자습 기록 URL](https://github.com/qbobl5/independent_study.git)
-- 2024.03.04 ~ ing :: Side Project 👥
+
+<br>
+
+## 🚀 Project
+- <h4>Hallym smart App 📱</h4>
+
+  - 2022.09. ~ 2022.11. 🔗 [Git URL](https://github.com/qbobl5/Hallym_smart_App.git)
+  - 지도를 활용한 강의실 위치 찾기, 교내 도서관 자리 예약
+  - 기관 : 한림대학교
+- <h4>Mango3 🥭</h4> 
+
+  - 2023.08 ~ 2023.08.
+  - 맛집 검색 웹사이트 '망고 플레이트'를 클론하여 콘솔 코딩한 프로젝트
+  - 기관 : 한국소프트웨어산업협회
+- <h4>TEAMTRACK!! 👥</h4>
+
+  - 2023.09 ~ 2023.09. 🔗 [Git URL-BackEnd](https://github.com/qbobl5/KOSA_TeamTrack_Back.git) &nbsp; 🔗 [Git URL-FrontEnd](https://github.com/qbobl5/KOSA_TeamTrack_Front.git)
+  - 스터디 활동 혹은 자기주도적 공부를 능동적으로 이끌어낼 수 있도록 장려하는 스터디 플랫폼
+  - 기관 : 한국소프트웨어산업협회
+- <h4>Lifia 🏡</h4>
+
+  - 2023.09 ~ 2023.10 🔗 [Git URL](https://github.com/SIDENOW-LIFIA/FE-Lifia.git)
+  - 아파트 주민들 간 소통을 위한 커뮤니티 웹 사이트
+  - 기관 : 서울청년센터 성동오랑
+- <h4>Code Sparring 👩🏻‍💻</h4>
+
+  - 2023.11. ~ 2023.12. 🔗 [Git URL-BackEnd](https://github.com/qbobl5/code-sparring-back.git) &nbsp; 🔗 [Git URL-FrontEnd](https://github.com/qbobl5/code-sparring-front.git)
+  - 코딩테스트를 실시간으로 1대1, 혹은 최대 4명이서 함께 대결할 수 있는 실시간 코딩테스트 대결 웹 사이트 (지원 언어 : Java)
+  - 기관 : 한국소프트웨어산업협회
 
 <br>
 
