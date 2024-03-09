@@ -84,5 +84,5 @@
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
   ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
   ![postman](https://img.shields.io/badge/-postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![amazons3](https://img.shields.io/badge/-amazon%20s3-%569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+  ![amazons3](https://img.shields.io/badge/-amazon%20s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
