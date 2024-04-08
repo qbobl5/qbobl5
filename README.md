@@ -3,7 +3,7 @@
 
 <!--## 🙋🏻‍♀️ Introduction
 - 🔗 [Tistory URL](https://kimparkpark.tistory.com/)
-- 🔗 [Notion URL]()-->
+- 🔗 [Notion URL]() 고민-->
 <br>
 
 ## 🐾 Track
