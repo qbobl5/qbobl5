@@ -1,4 +1,4 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=150&text=Kim%20Hye%20Bin&fontSize=50&color=0:FFD9EC,100:FFB2D9&stroke=F361A6&fontColor=F361A6)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=150&text=Kim%20Hye%20Bin&fontSize=50&color=0:000000,1000:D3D3D3&stroke=000000&fontColor=DCDCDC)
 <h3 align="right">Backend Developer 🚀</h3>
 
 <!--## .🙋🏻‍♀️ Introduction~-
