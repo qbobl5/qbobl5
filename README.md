@@ -7,7 +7,8 @@
 <br>
 
 ## 🐾 Track
-- 2019.02. ~ 2023.08. :: Hallym University 👩🏻‍🎓
+- 2023.04.19 :: PCCP Java Lv1 취득 ✅
+- 2019.02. ~ 2023.08. :: Hallym University 🎓
   - 심리학과 전공
   - 소프트웨어학부 빅데이터 전공
 - 2023.09. ~ 2023.10. :: Sungdongorang 🏡
@@ -15,41 +16,10 @@
   - 서울청년센터 성동오랑 수료
 - 2023.06. ~ 2023.12. :: KOSA 🌖
   - 한국소프트웨어산업협회 MSA 풀스택 과정 교육 수료
-    <!-- - 2024.03. ~ ing :: Coding Test 🔥 [코딩테스트 기록 URL](https://github.com/qbobl5/coding_test) -->
+- 2024.03.14 :: OPIc IM2 취득 ✅
+- 2024.06.21 :: SQLD 취득 ✅
 - 2024.07. ~ 2024.12. :: Woori FISA 🌏
-
 <br>
-
-<!--
-## 🚀 Project
-- <h4>Hallym smart App 📱</h4>
-
-  - 2022.09. ~ 2022.11. 🔗 [Git URL](https://github.com/qbobl5/Hallym_smart_App.git)
-  - 지도를 활용한 강의실 위치 찾기, 교내 도서관 자리 예약
-  - 기관 : 한림대학교
-- <h4>Mango3 🥭</h4> 
-
-  - 2023.08 ~ 2023.08.
-  - 맛집 검색 웹사이트 '망고 플레이트'를 클론하여 콘솔 코딩한 프로젝트
-  - 기관 : 한국소프트웨어산업협회
-- <h4>TEAMTRACK!! 👥</h4>
-
-  - 2023.09 ~ 2023.09. 🔗 [Git URL-BackEnd](https://github.com/qbobl5/KOSA_TeamTrack_Back.git) &nbsp; 🔗 [Git URL-FrontEnd](https://github.com/qbobl5/KOSA_TeamTrack_Front.git)
-  - 스터디 활동 혹은 자기주도적 공부를 능동적으로 이끌어낼 수 있도록 장려하는 스터디 플랫폼
-  - 기관 : 한국소프트웨어산업협회
-- <h4>Lifia 🏡</h4>
-
-  - 2023.09 ~ 2023.10 🔗 [Git URL](https://github.com/SIDENOW-LIFIA/FE-Lifia.git)
-  - 아파트 주민들 간 소통을 위한 커뮤니티 웹 사이트
-  - 기관 : 서울청년센터 성동오랑
-- <h4>Code Sparring 👩🏻‍💻</h4>
-
-  - 2023.11. ~ 2023.12. 🔗 [Git URL-BackEnd](https://github.com/qbobl5/code-sparring-back.git) &nbsp; 🔗 [Git URL-FrontEnd](https://github.com/qbobl5/code-sparring-front.git)
-  - 코딩테스트를 실시간으로 1대1, 혹은 최대 4명이서 함께 대결할 수 있는 실시간 코딩테스트 대결 웹 사이트 (지원 언어 : Java)
-  - 기관 : 한국소프트웨어산업협회
-
-<br>
--->
 
 ## 📌 Skill
 - Languages ✏️
@@ -85,3 +55,32 @@
   <!--![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
   ![amazons3](https://img.shields.io/badge/-amazon%20s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)-->
+<br>
+
+## 👩🏻‍💻 Project
+- <h4>Hallym smart App 📱</h4>
+
+  - 2022.09. ~ 2022.11. 🔗 [Git URL](https://github.com/qbobl5/Hallym_smart_App.git)
+  - 지도를 활용한 강의실 위치 찾기, 교내 도서관 자리 예약
+  - 기관 : 한림대학교
+- <h4>Mango3 🥭</h4> 
+
+  - 2023.08 ~ 2023.08.
+  - 맛집 검색 웹사이트 '망고 플레이트'를 클론하여 콘솔 코딩한 프로젝트
+  - 기관 : 한국소프트웨어산업협회
+- <h4>TEAMTRACK!! 👥</h4>
+
+  - 2023.09 ~ 2023.09. 🔗 [Git URL-BackEnd](https://github.com/qbobl5/KOSA_TeamTrack_Back.git) &nbsp; 🔗 [Git URL-FrontEnd](https://github.com/qbobl5/KOSA_TeamTrack_Front.git)
+  - 스터디 활동 혹은 자기주도적 공부를 능동적으로 이끌어낼 수 있도록 장려하는 스터디 플랫폼
+  - 기관 : 한국소프트웨어산업협회
+- <h4>Lifia 🏡</h4>
+
+  - 2023.09 ~ 2023.10 🔗 [Git URL](https://github.com/SIDENOW-LIFIA/FE-Lifia.git)
+  - 아파트 주민들 간 소통을 위한 커뮤니티 웹 사이트
+  - 기관 : 서울청년센터 성동오랑
+- <h4>Code Sparring 👩🏻‍💻</h4>
+
+  - 2023.11. ~ 2023.12. 🔗 [Git URL-BackEnd](https://github.com/qbobl5/code-sparring-back.git) &nbsp; 🔗 [Git URL-FrontEnd](https://github.com/qbobl5/code-sparring-front.git)
+  - 코딩테스트를 실시간으로 1대1, 혹은 최대 4명이서 함께 대결할 수 있는 실시간 코딩테스트 대결 웹 사이트 (지원 언어 : Java)
+  - 기관 : 한국소프트웨어산업협회
+<br>
