@@ -15,11 +15,9 @@
   - 서울청년센터 성동오랑 수료
 - 2023.06. ~ 2023.12. :: KOSA 🌖
   - 한국소프트웨어산업협회 MSA 풀스택 과정 교육 수료
-- 2024.02.29 ~ ing :: Study 🔥
-  <!--
-  - 🔗 [코딩테스트 스터디 URL](https://github.com/nawonhee/Study_CodingTest.git)
-  - 🔗 [알고리즘 스터디 URL](https://github.com/qbobl5/Study_Algorithm.git)-->
+- 2024.03. ~ ing :: Coding Test 🔥
   - 🔗 [코딩테스트 기록 URL](https://github.com/qbobl5/coding_test)
+- 2024.07. ~ ing :: Woori FISA 🌏
 
 <br>
 
