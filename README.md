@@ -19,7 +19,7 @@
   <!--
   - 🔗 [코딩테스트 스터디 URL](https://github.com/nawonhee/Study_CodingTest.git)
   - 🔗 [알고리즘 스터디 URL](https://github.com/qbobl5/Study_Algorithm.git)-->
-  - 🔗 [데일리 자습 기록 URL](https://github.com/qbobl5/independent_study.git)
+  - 🔗 [코딩테스트 기록 URL]([https://github.com/qbobl5/independent_study.git](https://github.com/qbobl5/coding_test))
 
 <br>
 
