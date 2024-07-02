@@ -57,7 +57,7 @@
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)-->
 <br>
 
-## 👩🏻‍💻 Project
+## 🗂️ Project
 - <h4>Hallym smart App 📱</h4>
 
   - 2022.09. ~ 2022.11. 🔗 [Git URL](https://github.com/qbobl5/Hallym_smart_App.git)
