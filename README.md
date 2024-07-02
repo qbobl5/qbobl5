@@ -63,11 +63,6 @@
   - 2022.09. ~ 2022.11. 🔗 [Git URL](https://github.com/qbobl5/Hallym_smart_App.git)
   - 지도를 활용한 강의실 위치 찾기, 교내 도서관 자리 예약
   - 기관 : 한림대학교
-- <h4>Mango3 🥭</h4> 
-
-  - 2023.08 ~ 2023.08.
-  - 맛집 검색 웹사이트 '망고 플레이트'를 클론하여 콘솔 코딩한 프로젝트
-  - 기관 : 한국소프트웨어산업협회
 - <h4>TEAMTRACK!! 👥</h4>
 
   - 2023.09 ~ 2023.09. 🔗 [Git URL-BackEnd](https://github.com/qbobl5/KOSA_TeamTrack_Back.git) &nbsp; 🔗 [Git URL-FrontEnd](https://github.com/qbobl5/KOSA_TeamTrack_Front.git)
