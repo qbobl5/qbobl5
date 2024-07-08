@@ -6,7 +6,7 @@
 - 🔗 [Notion URL]() 고민-->
 <br>
 
-## 🐾 Track
+## 📌 Track
 - 2023.04.19 :: PCCP Java Lv1
 - 2023.09. ~ 2023.10. :: 청년기획자클럽 프로젝트형 커뮤니티 사이드나우
 - 2023.06. ~ 2023.12. :: 한국소프트웨어산업협회 MSA 풀스택 과정 교육
@@ -51,7 +51,7 @@
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)-->
 <br>
 
-## 🗂️ Project
+## 📌 Project
 - <h4>Hallym smart App 📱</h4>
 
   - 2022.09. ~ 2022.11. 🔗 [Git URL](https://github.com/qbobl5/Hallym_smart_App.git)
