@@ -55,16 +55,20 @@
 <br>
 
 ## 📌 Project
-- <h4>Hallym smart App 📱</h4>
+- <h4>우행시 ⏰</h4>
 
-  - 2022.09. ~ 2022.11. 🔗 [Git URL](https://github.com/qbobl5/Hallym_smart_App.git)
-  - 지도를 활용한 강의실 위치 찾기, 교내 도서관 자리 예약
+  - 2024.07. ~ 2024.10. 🔗 [Git URL](https://github.com/woohaengshi)
+  - 공부 시간을 기록하고 회고함으로써 자기주도 학습 능력 향상을 권장하는 웹 서비스
+- <h4>Code Sparring 🥊</h4>
+
+  - 2023.11. ~ 2023.12. 🔗 [Git URL-BackEnd](https://github.com/qbobl5/code-sparring-back.git) &nbsp; 🔗 [Git URL-FrontEnd](https://github.com/qbobl5/code-sparring-front.git)
+  - 코딩테스트를 실시간으로 1대1, 혹은 최대 4명이서 함께 대결할 수 있는 실시간 코딩테스트 대결 웹 사이트 (지원 언어 : Java)
 - <h4>Lifia 🏡</h4>
 
   - 2023.09 ~ 2023.10 🔗 [Git URL](https://github.com/SIDENOW-LIFIA/FE-Lifia.git)
   - 아파트 주민들 간 소통을 위한 커뮤니티 웹 사이트
-- <h4>Code Sparring 👩🏻‍💻</h4>
+- <h4>Hallym smart App 📱</h4>
 
-  - 2023.11. ~ 2023.12. 🔗 [Git URL-BackEnd](https://github.com/qbobl5/code-sparring-back.git) &nbsp; 🔗 [Git URL-FrontEnd](https://github.com/qbobl5/code-sparring-front.git)
-  - 코딩테스트를 실시간으로 1대1, 혹은 최대 4명이서 함께 대결할 수 있는 실시간 코딩테스트 대결 웹 사이트 (지원 언어 : Java)
+  - 2022.09. ~ 2022.11. 🔗 [Git URL](https://github.com/qbobl5/Hallym_smart_App.git)
+  - 지도를 활용한 강의실 위치 찾기, 교내 도서관 자리 예약
 <br>
