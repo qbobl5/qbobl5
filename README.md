@@ -6,6 +6,14 @@
 - 🔗 [Notion URL]() 고민-->
 <br>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/qbobl5"
+  width="400"
+  height="auto"
+/>
+</a>
+
 ## 📌 Track
 - 2023.04.19 :: PCCP Java Lv1
 - 2023.09. ~ 2023.10. :: 서울청년센터 성동오랑 - 청년기획자클럽 프로젝트형 커뮤니티 사이드나우
