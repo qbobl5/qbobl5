@@ -64,6 +64,11 @@
 <br>
 
 ## 📌 Project
+
+- <h4>woori zip 🏡</h4>
+
+  - 2024.10. ~ 2024.12. 🔗 [Git URL](https://github.com/qbobl5/woori-zip-BE)
+  - 소비 패턴 유형에 따라 부동산을 추천하는 웹 서비스
 - <h4>우행시 ⏰</h4>
 
   - 2024.07. ~ 2024.10. 🔗 [Git URL](https://github.com/woohaengshi)
