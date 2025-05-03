@@ -5,7 +5,6 @@
 - 🔗 [Tistory URL](https://kimparkpark.tistory.com/)
 - 🔗 [Notion URL]() 고민-->
 <br>
-
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/qbobl5"
